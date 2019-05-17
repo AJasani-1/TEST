@@ -1,0 +1,1 @@
+This is file to save SQL code standards
