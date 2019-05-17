@@ -1,1 +1,3 @@
 This is file to save SQL code standards
+
+1)Instead using select * from tablename, try to use specific columns if you know what columns you want to pull. 
